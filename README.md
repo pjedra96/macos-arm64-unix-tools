@@ -2,6 +2,7 @@
 
 Small utility programs written in ARM64 assembly for Apple Silicon Macs.
 They don't use the C library. They call the macOS kernel directly with `svc #0x80`.
+This is more of a "free-time hobby project", but maybe someone will find it useful
 
 ## hello_mac.s
 
